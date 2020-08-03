@@ -1,9 +1,21 @@
 ## Flask CRUD App
+
 - flask cli for db scripts
 - implements `jwt token` for securing APIS.
 - implements `marshmallow` for Object serializing.
 - `Flask-mail` for forgot password feature. [Using https://mailtrap.io]
 - `flask-sqlalchemy` as ORM.
+
+### Folder Organization
+
+```
+├── README.md
+├── requirements.txt
+└── src
+    ├── app.py
+    ├── .envfile
+    └── sources.db
+```
 
 ### Install requirements
 
