@@ -1,0 +1,4 @@
+.vscode
+.env/
+src/.envfile
+src/sources.db
