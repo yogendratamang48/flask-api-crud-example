@@ -1,5 +1,5 @@
 
-Flask==1.1.2
+Flask==2.3.2
 Flask-JWT-Extended==3.24.1
 Flask-Mail==0.9.1
 flask-marshmallow==0.13.0
